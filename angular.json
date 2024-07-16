@@ -146,7 +146,7 @@
       }
     }
   },
-  "defaultProject": "black-dashboard-angular",
+  // "defaultProject": "black-dashboard-angular",
   "cli": {
     "analytics": false
   }
